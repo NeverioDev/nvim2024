@@ -1,3 +1,4 @@
+-- TODO something
 return {
   {
     "folke/todo-comments.nvim",
